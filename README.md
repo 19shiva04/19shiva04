@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-I'm just a enthusiastic guy trying to learn new technologies and built amazing / absurd projects.
+I'm just a enthusiastic guy trying to learn new technologies and build amazing / absurd projects.
 
 
 ## 🌐 Socials:
